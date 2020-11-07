@@ -1,3 +1,6 @@
 .idea
 venv
 *.xlsx
+tasks
+*.html
+__pycache__
